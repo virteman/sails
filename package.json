@@ -56,7 +56,7 @@
     "grunt-contrib-cssmin": "0.6.1",
     "grunt-contrib-less": "0.9.0",
     "grunt-contrib-coffee": "~0.7.0",
-    "ejs": "git+https://github.com/virteman/ejs.git",
+    "ejs": "git+https://github.com/virteman/ejs.git#e0be933592860def266638e51149b0b5c8a0158d",
     "ejs-locals": "1.0.2",
     "connect-flash": "0.1.1",
     "pluralize": "0.0.5"
