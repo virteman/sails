@@ -1,7 +1,7 @@
 {
   "name": "sails",
   "author": "Mike McNeil <mike@balderdash.co>",
-  "version": "0.9.16",
+  "version": "0.9.17",
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
   "homepage": "http://sailsjs.com",
   "keywords": [
@@ -30,7 +30,7 @@
     "waterline": "~0.9.16",
     "sails-disk": "~0.9.0",
     "express": "3.4.0",
-    "socket.io": "0.9.14",
+    "socket.io": "0.9.17",
     "connect-redis": "1.4.5",
     "connect-mongo": "0.3.2",
     "async": "0.2.9",
